@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @m4teoosh
 - 👀 I’m interested in games and web apps developement
-- 🌱 I’m currently learning .NET Core
+- 🌱 I’m currently learning .NET Core adn React
 - 📫 Send me and e-mail: mateusz.kadlubowski99@gmail.com
 
 <!---
